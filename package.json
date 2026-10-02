@@ -1,0 +1,12 @@
+{
+  "name": "unblocked",
+  "version": "1.0.0",
+  "description": "HTML web application",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "dependencies": {
+    "serve": "^14.2.1"
+  }
+}
